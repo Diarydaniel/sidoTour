@@ -1,0 +1,1307 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Travoka - Travel & Tour Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination List",
+            "screenshot": "screenshots\/destination-list.jpg",
+            "source": "templates\/destination-list.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/destination-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tour Packages",
+            "screenshot": "screenshots\/tour-packages.jpg",
+            "source": "templates\/tour-packages.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/tour-packages\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destination Details",
+            "screenshot": "screenshots\/destination-details.jpg",
+            "source": "templates\/destination-details.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/destination-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Package Details",
+            "screenshot": "screenshots\/package-details.jpg",
+            "source": "templates\/package-details.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/package-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Booking",
+            "screenshot": "screenshots\/metform-booking.jpg",
+            "source": "templates\/metform-booking.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/metform-booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tabs",
+            "screenshot": "screenshots\/tabs.jpg",
+            "source": "templates\/tabs.json",
+            "preview_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/template-kit\/tabs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.9",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.9.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.23.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "nayarit-beach-e1730010954688.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/nayarit-beach-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-list.json",
+                    "name": "Destination List"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/destination-details.json",
+                    "name": "Destination Details"
+                },
+                {
+                    "source": "templates\/package-details.json",
+                    "name": "Package Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 215984,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BCDK9HK"
+        },
+        {
+            "filename": "boat-in-phuket-thailand-1-e1730358132872.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/boat-in-phuket-thailand-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-list.json",
+                    "name": "Destination List"
+                },
+                {
+                    "source": "templates\/destination-details.json",
+                    "name": "Destination Details"
+                },
+                {
+                    "source": "templates\/package-details.json",
+                    "name": "Package Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 151492,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-UYSK6AY"
+        },
+        {
+            "filename": "manta-bay-or-kelingking-beach-on-nusa-penida-island-bali-indonesia-e1730011009948.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/manta-bay-or-kelingking-beach-on-nusa-penida-island-bali-indonesia-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-list.json",
+                    "name": "Destination List"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 190528,
+            "dimensions": [
+                1080,
+                608
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-A7U5GBW"
+        },
+        {
+            "filename": "singapore-skyline-e1730010973106.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/singapore-skyline-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-list.json",
+                    "name": "Destination List"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 187910,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9TW2RW"
+        },
+        {
+            "filename": "chengdu-china-river-and-bridge-e1730012222294.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/chengdu-china-river-and-bridge-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-list.json",
+                    "name": "Destination List"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 205541,
+            "dimensions": [
+                1300,
+                868
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PE8K9C7"
+        },
+        {
+            "filename": "langkawi-malaysia-beach-at-dusk-e1730011351845.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/langkawi-malaysia-beach-at-dusk-e1730011351845.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-list.json",
+                    "name": "Destination List"
+                },
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 129400,
+            "dimensions": [
+                1440,
+                956
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VY9MSNP"
+        },
+        {
+            "filename": "japanese-traditional-temple-building-roof-cherry-blossoms-blue-sky-spring-sakura-season-in-japan-e1730012237569.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/japanese-traditional-temple-building-roof-cherry-blossoms-blue-sky-spring-sakura-season-in-japan-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 230212,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-EDBE522"
+        },
+        {
+            "filename": "pink-beach-labuan-bajo-indonesia-e1730011216498.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/pink-beach-labuan-bajo-indonesia-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/destination-details.json",
+                    "name": "Destination Details"
+                },
+                {
+                    "source": "templates\/package-details.json",
+                    "name": "Package Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 147133,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-AYPDRZX"
+        },
+        {
+            "filename": "singapore-merlion-park-downtown-singapore-business-district-1-e1730011229920.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/singapore-merlion-park-downtown-singapore-business-district-1-800x535.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 199745,
+            "dimensions": [
+                1440,
+                963
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VKQNZG9"
+        },
+        {
+            "filename": "couple-at-handara-gate-bali-e1730011257900.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/couple-at-handara-gate-bali-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/package-details.json",
+                    "name": "Package Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 227116,
+            "dimensions": [
+                1300,
+                868
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-QGVGP8Q"
+        },
+        {
+            "filename": "sandy-beach-in-the-maldives-e1730011271322.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/sandy-beach-in-the-maldives-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/destination-details.json",
+                    "name": "Destination Details"
+                },
+                {
+                    "source": "templates\/package-details.json",
+                    "name": "Package Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 246487,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-C2ESF9S"
+        },
+        {
+            "filename": "great-wall-of-china-at-the-jinshanling-section--e1730012252980.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/great-wall-of-china-at-the-jinshanling-section--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 212781,
+            "dimensions": [
+                1300,
+                868
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VFDLWCE"
+        },
+        {
+            "filename": "deoksugung-palace-or-deoksu-palace-in-seoul-south-korea-e1730011309583.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/deoksugung-palace-or-deoksu-palace-in-seoul-south-korea-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 244366,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5P4HPEW"
+        },
+        {
+            "filename": "historic-temple-on-the-hills-in-kyoto-kiyomizudera-pagoda-at-sunset-time-e1730011365181.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/historic-temple-on-the-hills-in-kyoto-kiyomizudera-pagoda-at-sunset-time-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 176612,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-LHCYMU6"
+        },
+        {
+            "filename": "man-hiking-in-winter-e1730011387609.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/man-hiking-in-winter-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 148876,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KHYJQBB"
+        },
+        {
+            "filename": "person-traveler-travel-destination-concept-e1730011399328.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/person-traveler-travel-destination-concept-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119289,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVBLUBB"
+        },
+        {
+            "filename": "picture-of-an-elegant-young-fashion-man-e1730011411361.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/picture-of-an-elegant-young-fashion-man-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 107299,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-P55Q4HK"
+        },
+        {
+            "filename": "women-casual-jeans-hat-girl-freedom-simplicity-concept-e1730011424776.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/women-casual-jeans-hat-girl-freedom-simplicity-concept-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tour-packages.json",
+                    "name": "Tour Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 121100,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXPLFSW"
+        },
+        {
+            "filename": "young-woman-and-hot-air-ballons-goreme-cappadocia-turkey-e1730011447316.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/young-woman-and-hot-air-ballons-goreme-cappadocia-turkey-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destination-details.json",
+                    "name": "Destination Details"
+                },
+                {
+                    "source": "templates\/package-details.json",
+                    "name": "Package Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 75037,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-R5SY8UR"
+        },
+        {
+            "filename": "young-woman-traveler-enjoying-beautiful-autumn-in-japan-travel-lifestyle-concept-e1730012294749.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/young-woman-traveler-enjoying-beautiful-autumn-in-japan-travel-lifestyle-concept-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 236795,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FKNJNFC"
+        },
+        {
+            "filename": "sunset-evening-seaside-scenery-at-phuket-island-e1730011655563.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/sunset-evening-seaside-scenery-at-phuket-island-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 202760,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-K4FF9F6"
+        },
+        {
+            "filename": "young-beautiful-woman-walking-on-campuhan-ridge-way-of-artists-in-bali-ubud-1-e1730012309839.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/young-beautiful-woman-walking-on-campuhan-ridge-way-of-artists-in-bali-ubud-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 217803,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-K4ZGJQV"
+        },
+        {
+            "filename": "travel-to-summer-europe-young-asian-woman-e1730011684679.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/travel-to-summer-europe-young-asian-woman-800x545.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 144758,
+            "dimensions": [
+                1440,
+                981
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3BYZ7FN"
+        },
+        {
+            "filename": "mountaineer-climbs-a-snowy-peak-in-swiss-alps-zermatt-switzerland--e1730011697116.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/mountaineer-climbs-a-snowy-peak-in-swiss-alps-zermatt-switzerland--800x554.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 214513,
+            "dimensions": [
+                1440,
+                996
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z7Q375T"
+        },
+        {
+            "filename": "woman-traveling-in-valencia-city-e1730011711162.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/woman-traveling-in-valencia-city-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 177238,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FG352SV"
+        },
+        {
+            "filename": "young-female-tourist-enjoying-the-beautiful-landscape-at-padar-island-in-komodo-national-park-e1730011565773.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/young-female-tourist-enjoying-the-beautiful-landscape-at-padar-island-in-komodo-national-park-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 170269,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DRQWJS7"
+        },
+        {
+            "filename": "native-tribe-in-luan-bajo-indonesia-e1730011508301.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/native-tribe-in-luan-bajo-indonesia-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 162574,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-9D2Z8KB"
+        },
+        {
+            "filename": "young-woman-traveler-looking-beautiful-landscape-at-arashiyama-japan-travel-lifestyle-concept-e1730011725739.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/young-woman-traveler-looking-beautiful-landscape-at-arashiyama-japan-travel-lifestyle-concept-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 243319,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXR8E5K"
+        },
+        {
+            "filename": "young-beautiful-woman-walking-on-campuhan-ridge-way-of-artists-in-bali-ubud-e1730011737309.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/young-beautiful-woman-walking-on-campuhan-ridge-way-of-artists-in-bali-ubud-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 170515,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-8QVWLLA"
+        },
+        {
+            "filename": "woman-with-backpack-exploring-bali-indonesia--e1730012280555.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/woman-with-backpack-exploring-bali-indonesia--800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 199030,
+            "dimensions": [
+                1300,
+                865
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-SHCAWAM"
+        },
+        {
+            "filename": "girl-tourist-in-yellow-jacket-posing-on-the-lake-in-norway-active-woman-relaxing-in-the-norway--e1730011754552.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/girl-tourist-in-yellow-jacket-posing-on-the-lake-in-norway-active-woman-relaxing-in-the-norway--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 156375,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZZ7W7EG"
+        },
+        {
+            "filename": "indonesia-lombok-woman-standing-at-the-coast-with-outstretched-arms-e1730011495651.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/indonesia-lombok-woman-standing-at-the-coast-with-outstretched-arms-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 117270,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-AMNJ7ZP"
+        },
+        {
+            "filename": "pretty-girl-at-goa-gajah-bali-e1730011617248.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/pretty-girl-at-goa-gajah-bali-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 230998,
+            "dimensions": [
+                1300,
+                868
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZJ3CLR5"
+        },
+        {
+            "filename": "man-exploring-beautiful-destination-with-his-longboard-e1730011770744.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/man-exploring-beautiful-destination-with-his-longboard-800x479.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 192845,
+            "dimensions": [
+                1440,
+                863
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-7C6PBLQ"
+        },
+        {
+            "filename": "tourists-canoeing-into-the-spirit-island-on-maligne-lake-at-jasper-national-park-canada-e1730012324315.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/09\/tourists-canoeing-into-the-spirit-island-on-maligne-lake-at-jasper-national-park-canada-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 209914,
+            "dimensions": [
+                1300,
+                865
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-TNBMMJC"
+        },
+        {
+            "filename": "padar-island-with-scenic-high-view-of-three-beautiful-white-sandy-beaches-surrounded-by-a-wide-ocean-e1730012337593.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/09\/padar-island-with-scenic-high-view-of-three-beautiful-white-sandy-beaches-surrounded-by-a-wide-ocean-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 193025,
+            "dimensions": [
+                1300,
+                868
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-MSZ8S48"
+        },
+        {
+            "filename": "llanddwyn-island-e1730011849540.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/09\/llanddwyn-island-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 249747,
+            "dimensions": [
+                1300,
+                832
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVL2E6S"
+        },
+        {
+            "filename": "young-woman-at-the-pura-ulun-danu-bratan-bali-e1730011534748.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/young-woman-at-the-pura-ulun-danu-bratan-bali-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 236431,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PC7Q4FL"
+        },
+        {
+            "filename": "young-woman-sitting-near-bay-antiocheia-ad-cragum-ancient-town-e1730011890959.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/young-woman-sitting-near-bay-antiocheia-ad-cragum-ancient-town-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 222120,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQ3WKFA"
+        },
+        {
+            "filename": "friends-going-on-forest-road-e1730012352135.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/friends-going-on-forest-road-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 240864,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NUPM4KW"
+        },
+        {
+            "filename": "anonymous-traveler-looking-at-mountain-e1730011952822.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/anonymous-traveler-looking-at-mountain-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 127894,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-CXLUR6F"
+        },
+        {
+            "filename": "Team-7.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/Team-7-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 85736,
+            "dimensions": [
+                1000,
+                1188
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-WPUU78G"
+        },
+        {
+            "filename": "Team-6.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/Team-6-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 81745,
+            "dimensions": [
+                1000,
+                1188
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HW9V9BM"
+        },
+        {
+            "filename": "Team-5.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/Team-5-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 77114,
+            "dimensions": [
+                1000,
+                1188
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-S5EBYE3"
+        },
+        {
+            "filename": "Team-4.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/Team-4-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 125161,
+            "dimensions": [
+                1000,
+                1188
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-WNVZKWT"
+        },
+        {
+            "filename": "aerial-shot-of-padar-island-in-east-nusa-tenggara-indonesia--e1730011970295.jpg",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/aerial-shot-of-padar-island-in-east-nusa-tenggara-indonesia--800x492.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 137635,
+            "dimensions": [
+                1440,
+                886
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GF3SMAE"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2682,
+            "dimensions": [
+                279,
+                69
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-7FHN8E"
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "https:\/\/www.wordpress-dev.codeinsolution.com\/travoka\/wp-content\/uploads\/sites\/60\/2024\/10\/Logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3023,
+            "dimensions": [
+                280,
+                68
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-7FHN8E"
+        }
+    ]
+}
